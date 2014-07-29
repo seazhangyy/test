@@ -1,3 +1,5 @@
 print 'hello'
 
 print 'new hello'
+
+a <- a + 1
